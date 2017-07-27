@@ -5,8 +5,6 @@ import net.minecraft.item.Item;
 import net.minecraftforge.client.model.ModelLoader;
 import thepurplepoe.reinforcing.ReinforcingMod;
 import thepurplepoe.reinforcing.proxy.CommonProxy;
-import thepurplepoe.reinforcing.util.Helper;
-import thepurplepoe.reinforcing.util.Reference;
 
 public class ClientProxy extends CommonProxy {
 	@Override

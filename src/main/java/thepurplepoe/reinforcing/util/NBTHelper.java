@@ -1,7 +1,5 @@
 package thepurplepoe.reinforcing.util;
 
-import java.util.Random;
-
 import net.minecraft.item.ItemStack;
 import net.minecraft.nbt.NBTTagCompound;
 
